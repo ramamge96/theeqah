@@ -1,0 +1,6 @@
+{
+  "name": "نظام ثقة المحاسبي",
+  "description": "تطبيق محاسبي متكامل للفوترة الآلية والقيود المزدوجة التلقائية ودليل الحسابات ومتابعة المخازن والعملاء",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
